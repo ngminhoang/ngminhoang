@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ngminhoang
+- 👀 I’m interested in Python although I do with C++ more ( but my only small project was from Python :)) 
+- 🌱 I’m currently learning database.
+- 💞️ I’m looking to collaborate with newbies who have no experience to level up our skill together.
+- 📫 How to reach me : https://www.facebook.com/nmh.ing.56/
